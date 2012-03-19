@@ -1,4 +1,4 @@
-Copyright (c) 2012 Jeremy Durnell, https://github.com/JeremyDurnell/RegDiff
+Copyright (c) 2012 Jeremy Durnell, http://github.com/JeremyDurnell/RegDiff
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
